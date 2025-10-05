@@ -118,7 +118,7 @@ nav ul li a.active {
 
 .banner-text p {
   font-size: 13px;
-  min-width: 90px;
+  min-width: 10px;
   text-align: center;
   line-height: 1.6;
 }
@@ -186,4 +186,5 @@ nav ul li a.active {
     font-size: 14px;
   }
 }
+
 

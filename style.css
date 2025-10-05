@@ -78,7 +78,7 @@ nav ul li a.active {
 .banner {
   position: relative;
   width: 100%;
-  height: 255px;
+  height: 248px;
   overflow: hidden;
 }
 
@@ -92,7 +92,7 @@ nav ul li a.active {
 
 .banner-text {
   position: absolute;
-  top: 80%;
+  top: 170%;
   left: 10%;       /* teks di kiri */
   color: white;
   max-width: 500px;
@@ -101,7 +101,7 @@ nav ul li a.active {
 /* responsif untuk tablet/hp */
 @media (max-width: 992px) {
   .banner-img {
-    height: 350px;
+    height: 250px;
   }
 }
 
@@ -185,3 +185,4 @@ nav ul li a.active {
   }
 
 }
+

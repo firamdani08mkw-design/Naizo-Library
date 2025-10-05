@@ -78,7 +78,7 @@ nav ul li a.active {
 .banner {
   position: relative;
   width: 100%;
-  height: 268px;
+  height: 255px;
   overflow: hidden;
 }
 
@@ -92,7 +92,7 @@ nav ul li a.active {
 
 .banner-text {
   position: absolute;
-  top: 40%;
+  top: 80%;
   left: 10%;       /* teks di kiri */
   color: white;
   max-width: 500px;
@@ -183,4 +183,5 @@ nav ul li a.active {
   .welcome-text p {
     font-size: 14px;
   }
+
 }

@@ -92,7 +92,7 @@ nav ul li a.active {
 
 .banner-text {
   position: absolute;
-  top: 200%;
+  top: 40%;
   left: 10%;       /* teks di kiri */
   color: white;
   max-width: 500px;
@@ -185,5 +185,6 @@ nav ul li a.active {
   }
 
 }
+
 
 

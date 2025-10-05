@@ -1,2 +1,0 @@
-# Naizo-Library
-web
